@@ -59,7 +59,7 @@
     "memory-cache": "0.1.5",
     "react-mixin": "3.0.4",
     "reflux": "0.4.1",
-    "request": "2.71.0",
+    "request": "2.88.2",
     "superagent": "1.8.3",
     "superagent-bluebird-promise": "3.0.0",
     "swig": "1.4.2",
