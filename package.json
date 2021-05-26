@@ -67,7 +67,7 @@
     "vinyl-source-stream": "1.1.0",
     "watchify": "3.7.0",
     "winston": "2.2.0",
-    "ws": "1.1.0"
+    "ws": "7.4.6"
   },
   "devDependencies": {
     "babel-eslint": "6.0.2",
